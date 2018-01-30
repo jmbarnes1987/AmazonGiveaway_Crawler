@@ -1,7 +1,9 @@
 # AmazonGiveaway_Crawler
 
-Selenium example, doesn't function with the animated dropping boxes: 
+Selenium example: 
 http://mattharris.org/2016/11/28/automating-amazon-giveaways/
+doesn't function with the animated dropping boxes, possibly because focus needs to be maintained? If I enter the contest manually, I need to maintain the window with the bouncing box as my main window in order for the animation to complete.
+
 https://giveawaylisting.com/index2.html
 
 More information on Python and web crawling/scraping tools:
