@@ -2,7 +2,7 @@
 
 Selenium example: 
 http://mattharris.org/2016/11/28/automating-amazon-giveaways/
-doesn't function with the animated dropping boxes, possibly because focus needs to be maintained? If I enter the contest manually, I need to maintain the window with the bouncing box as my main window in order for the animation to complete.
+This example doesn't function with the animated dropping boxes. Possibly because focus needs to be maintained? If I enter the contest manually, I need to keep the window with the bouncing box as my main window and active in order for the animation to complete which enables to click event.
 
 https://giveawaylisting.com/index2.html
 
